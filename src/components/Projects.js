@@ -22,14 +22,12 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Compound</h3>
-                    <img src={compound} alt="Compound Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <img src={compound} alt="Metaverse Realestate" />
+                    <p>Metaverse project where you buy your properties there.
                     </p>
 
                     <a href="https://compound.finance/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/compound-finance/compound-protocol" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/Syriacode/Metaverse-Project" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
